@@ -1097,4 +1097,13 @@
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
+  width: 320px;
+}
+/* From 768px to 0, here change the width you want */
+@media all and (max-width: 768px){
+  .u-sm .u-sheet {
+    width: 320px;
+  }
+}
+.modal {
 }
