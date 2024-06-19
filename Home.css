@@ -9,7 +9,6 @@
 
 .u-section-1 .u-group-1 {
   width: 267px;
-  min-height: 426px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
   height: auto;
   margin: 330px auto 60px 18px;
@@ -1099,12 +1098,12 @@
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
-  width: 320px;
+  width: 420px;
 }
 /* From 768px to 0, here change the width you want */
 @media all and (max-width: 768px){
   .u-sm .u-sheet {
-    width: 320px;
+    width: 420px;
   }
 }
 .modal {
