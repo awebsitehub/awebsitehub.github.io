@@ -42911,7 +42911,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-nav-2 {
-    margin: -71px -120px 0 0;
+    width: 163px;
+    margin: -90px 40px 0 auto;
   }
 
   .u-header .u-image-1 {
