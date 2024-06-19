@@ -14,27 +14,10 @@
   --animation-custom_in-scale: 0.3;
   font-family: "ADLaM Display";
   font-size: 3.75rem;
-  margin: -203px auto 0;
+  margin: 36px auto 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0;
-}
-
-.u-section-1 .u-text-3 {
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
-  font-family: "ADLaM Display";
-  font-size: 3.75rem;
-  margin: 127px auto 0;
-}
-
-.u-section-1 .u-text-4 {
   font-size: 1.25rem;
   margin: 20px 0 0;
 }
@@ -80,24 +63,14 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.5rem;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: auto;
-    margin-top: 0;
-    margin-right: -5px;
-  }
-
-  .u-section-1 .u-text-3 {
     font-size: 3rem;
     width: auto;
-    margin-top: 177px;
+    margin-top: 26px;
     margin-left: 32px;
     margin-right: 32px;
   }
 
-  .u-section-1 .u-text-4 {
+  .u-section-1 .u-text-2 {
     width: auto;
     margin-top: 18px;
   }
